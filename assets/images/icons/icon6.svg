@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 99.999997 100"
+   id="svg5300"
+   version="1.1"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="zabor.svg">
+  <defs
+     id="defs5302" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="39.363498"
+     inkscape:cy="45.693259"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5305">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <rect
+       style="fill:#275e91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-opacity:1"
+       id="rect4142"
+       width="100.84746"
+       height="100.42373"
+       x="-0.09936101"
+       y="952.39532" />
+    <image
+       width="50.501251"
+       height="50.501251"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA IGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAGvSURBVHja7NvLjsMg DEDRYvX/f5nZdDGPtGoBBzKcK1XqgromFztBSUqt9YZ1CIeAEBBCCAjZW0h9fLLIjp9Nc/4q5B9U SH3yfeTqyox/RnU05x8df5Zx0LLjZ7fE7vx3bFlLV2B02h85sez4Z4puzj82ro4lZccA+yMmlh1/ ZnV8lH8MPhA1aTLZ0rMX09tjd2lZl6nAaEyyPD5ZK2ZU/MzV/orm/KPxz46+3wZOJjN+Nl35x8Uv NVtXfRkku47+XXTYz1jF2fHPrI6m/HfcqS/dEqPT/siJZcefUR0f5x8bV8eSsmNzGctJcYPqwucQ EEIIZp/oDp7t9bDvxIsNFaJlgZALcf/T0EopDst5/D6HqxAtC4TYh8A+RMsCITvuQ771tPqq1x1d UhvfP16FaFkghBAQQggIIQSEEAJCQAghIIQQEEIICCEEhIAQQkAIISCEEBCyLd4PWcCBCtGyQMhF 8Z76ZLynrmWBEPsQ2IdoWSDEPuRHT/Me+YTxKkTLAiGEgBBCQAghIIQQEIKn3D8Ym32fRHwVomWB kGtxdE8dKgSEEIJ3+AIAAP//AwDstmijm2L+7QAAAABJRU5ErkJggg== "
+       id="image10"
+       x="24.878193"
+       y="980.01324" />
+  </g>
+</svg>
